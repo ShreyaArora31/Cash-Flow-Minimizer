@@ -11,10 +11,7 @@ A C++ application that optimizes financial transactions between multiple banks b
 - [Algorithms](#algorithms)
 - [Complexity Analysis](#complexity-analysis)
 - [Example](#example)
-- [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -120,7 +117,7 @@ Sample Output:
 
 ================================================================================
 ```
-![alt text](image1.png)![alt text](image2png)
+![alt text](image1.jpeg)![alt text](image2.jpeg)
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
