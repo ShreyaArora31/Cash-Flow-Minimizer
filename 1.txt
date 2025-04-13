@@ -1,0 +1,16 @@
+6
+WorldBank 4 GooglePay PayPal Visa CashApp
+Chase 2 GooglePay PayPal
+WellsFargo 2 PayPal Visa
+BankOfAmerica 1 GooglePay
+CitiBank 2 CashApp Visa
+HSBC 1 PayPal
+8
+Chase WorldBank 5000
+WellsFargo CitiBank 3000
+BankOfAmerica Chase 2500
+HSBC WellsFargo 1500
+CitiBank Chase 4000
+BankOfAmerica WorldBank 3500
+HSBC CitiBank 2000
+WellsFargo Chase 1000
